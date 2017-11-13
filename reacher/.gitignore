@@ -15,3 +15,10 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# Ignore application configuration
+/config/application.yml
+
+/node_modules
+/vendor/assets/stylesheets/gulp
+/vendor/assets/javascripts/gulp

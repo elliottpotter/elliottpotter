@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-sandbox-151919",
+  "private_key_id": "1040ee738064ede6c0aeb6a3f2e5f55850ea1140",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6y0OCf58sDWh8\nXCyLmrUtNuj/1VJ88yjp/Sddtf8ikGVYL9S6ZheEbrTnWOV/aTyFaRtcYROEoHhU\naNNf1luDgV7qujpvNV7RVgzuraTE/TMpO7zSSxCVLzoJ6OtwNweNB6jZ7Gr6CEnp\nMooXBg8je5uTo9ph6s2pVBIOkMuNLQPCj7C+G3SO+k2SuCalLd6gT0k1McRg00iw\nhRzGPs4ivO35x7Z7/d2GSMA98UzVff3sVjj3a6xhJ3j6KUVFy1kokXfQGE6Y8UMZ\n+BgJfMx8ZJraWX4UgWXWdTcbc1DSMT3X/ScafeT+bwnvaGunFkIuZcUuT0hhuMlX\nGtgKRzCTAgMBAAECggEABImbgjgHbdKFjz/N9TY04HxM/Kn57v8ZJ1X29tfM8tH/\nJD1FNaH1QEpQKq6GJKoxxivfdkcFaltbkPFa8SEL6A3keF89vCXXv84PUlz1e7OK\n4p2I4LLiHD2hc0wtK/SqQkrFV0Xe82PwJ7IKmLSU+Y+vH88DJw3FIS/hoGj0COHc\nZaO5eHOM6kouZXU2Z3HzGufWpk47vl3nVncXpSOmYVraYyDIKTJklvAWrDC6SrHp\nCB2bwzRgIfZxgS547SMQomuOx/BmsgHTjIDFXCT2LXQD9Hw1/7OZbT/YP8/4pX2y\njz4/H6xQV7w4M5jGLLhGsubZLbRKFEUdDsUPe2LpAQKBgQDsNrt8Z4VF4KiOmYy9\nC06GQyc9Caaey9AnCCafAgzAxMosFYn61r63R8XBeVTkXi7OxIm9MhNRAnrt7LiA\nWFlbvfL/9BPZrfiHuWe8pifotxuIpC9baGqbULm4poWKQ0Rvi5sOr3U8awAudZBF\nSQjCaK+eA4sWiFfBKz4BjRfbwwKBgQDKcMtXr9RaxFV+tbHd6txcupe3kGLwGT/2\ngL39uqkf29H+rbOOTVvOjYSqdjwrdA+MvT5aMWIcmhQvxrDAfOJEkxxYbDq02ioC\nZk0ptpONMP47TAHbShAtcPHtJSJyD9WkVouGGW+SDjJnugJROP7Mcnzk07I4MPx6\nChMmLQqa8QKBgCyoNE3SrGmHjZZYBTmAN7o+W964Ql3nHlUiv1p0YsDW83neIJXh\nn3C7CvIG5DvAao0AryGro+c+1srAZCkvisVDZftpw471yvSt4qTRrN3cMEJm9+UK\nGo1+d34nTTvUd8220Pu3xCxF9mTSKRJQOm22qOzwsozx/dUxPanBaO9NAoGBAKL/\nbrqLuE/dBXmgkjY8hHGlS8NhXkg0DGxN/KvvP32HYO3OrmRFpUYKbGdUC95w9JQ9\nS5cTbAvbg6V0NZzG8OiGCqyneB1mC60i8b5EY0mryQe1i0kluSDdb+2hmLp+RWas\nyGqQ0GSpSax6+KKtYXr8M9OLIFReHOumcQSr/34BAoGAHvhK3XcOXGgwo1CY8B4I\nTU1O/P8ajAoAQQNdYYHrgxSI8clsDRglgxofXLM/2cuMaPvefeUaLEchmI8t3dfz\nTDNWPsNRc6B7ZtHFMKHbhwxhi86/bze9iU2ZdbS05tFA+37SbEiVbTobc1xj+rm1\nHrc1x5CZo4/cKwoYrZ1ox10=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-uploader@smart-sandbox-151919.iam.gserviceaccount.com",
+  "client_id": "105162534142626055788",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-uploader%40smart-sandbox-151919.iam.gserviceaccount.com"
+}

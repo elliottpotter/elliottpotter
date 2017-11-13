@@ -23,3 +23,6 @@ module Reacher
     # -- all .rb files in that directory are automatically loaded.
   end
 end
+
+Rails.application.configure do
+end
